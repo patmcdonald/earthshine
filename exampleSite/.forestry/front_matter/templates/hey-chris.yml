@@ -16,10 +16,9 @@ fields:
   label: Showdate
   type: boolean
   hidden: false
-  default: ''
+  default: true
 - name: tags
   label: Tags
   type: list
   hidden: false
-  default:
-  - ''
+  default: []
