@@ -1,6 +1,6 @@
 ---
-title: A Poem
-date: 2018-02-01 17:35:11 +0000
+title: Hey Chris!
+date: ''
 showDate: true
 draft: false
 tags:
