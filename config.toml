@@ -1,0 +1,25 @@
+languageCode = "en-us"
+pygmentsCodefences = true
+pygmentsStyle = "manni"
+theme = "sam"
+title = "Call me Sam"
+[params]
+clickablePhotos = true
+dateform = "Mon Jan 02, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 EST"
+description = "A new Hugo site."
+favicon = "/sam.ico"
+footerText = "Call me Sam, a theme for Hugo."
+galleryFolder = "images/"
+homepage = "main"
+primaryImage = "/tn.png"
+twitterCard = "summary_large_image"
+[[params.mainMenu]]
+link = "/posts"
+text = "writing"
+[[params.mainMenu]]
+link = "/gallery"
+text = "gallery"
+[[params.mainMenu]]
+link = "/about"
+text = "who is sam?"
