@@ -1,6 +1,6 @@
 ---
 title: Hey Chris!
-date: ''
+date: 2018-06-19 23:00:00 +0000
 showDate: true
 draft: false
 tags:
