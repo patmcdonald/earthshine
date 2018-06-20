@@ -1,36 +1,23 @@
 ---
-title: "A Poem"
-date: 2018-02-01T12:35:11-05:00
+title: A Poem
+date: 2018-02-01 17:35:11 +0000
 showDate: true
 draft: false
-tags: ["classic","poem"]
+tags:
+- Netlify
+
 ---
-
-Now pleasing sleep had seal'd each mortal eye,  
-Stretch'd in the tents the Grecian leaders lie:  
-The immortals slumber'd on their thrones above;  
-All, but the ever-wakeful eyes of Jove.(76)  
-To honour Thetis' son he bends his care,  
-And plunge the Greeks in all the woes of war:  
-Then bids an empty phantom rise to sight,  
-And thus commands the vision of the night.  
-
-
-"Fly hence, deluding Dream! and light as air,(77)  
-To Agamemnon's ample tent repair.  
-Bid him in arms draw forth the embattled train,  
-Lead all his Grecians to the dusty plain.  
-Declare, e'en now 'tis given him to destroy  
-The lofty towers of wide-extended Troy.  
-For now no more the gods with fate contend,  
-At Juno's suit the heavenly factions end.  
-Destruction hangs o'er yon devoted wall,  
-And nodding Ilion waits the impending fall."  
-
-
-Swift as the word the vain illusion fled,  
-Descends, and hovers o'er Atrides' head;  
-Clothed in the figure of the Pylian sage,  
-Renown'd for wisdom, and revered for age:  
-Around his temples spreads his golden wing,  
-And thus the flattering dream deceives the king.  
+**### Here's my selection from your \[support-tasks gist\](**[**https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6**]( "Hey Chris!")**)**  
+To be straight up - there's nothing legal that I wouldn't do to get the job done, and learn at the same time!  
+My 5 favourite activities from this list are:  
+1\. Work with prospective customers to explain our service and the pricing model  
+2\. Respond to 50+ support requests via email or chat most days  
+3\. Spot trends across many cases to improve Netlify's product and service.  
+4\. Debug a customer's build using a programming language and framework that you've never seen before.  
+5\. Set up your own copy of several static site frameworks for debugging.  
+**### My 5 least favourite activities from this list are**  
+1\. Engage multiple users at once via chat to answer their questions and troubleshoot problems.  
+2\. Respond to Netlify customers on Twitter.  
+3\. Write and maintain documentation for our software and blog posts for our website.  
+4\. Help manage communications during a service outage.  
+5\. Submit bug reports and potentially bug fixes to closed and open source projects that Netlify maintains on GitHub.
