@@ -21,4 +21,5 @@ fields:
   label: Tags
   type: list
   hidden: false
-  default: ''
+  default:
+  - ''
